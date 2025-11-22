@@ -1,7 +1,6 @@
 
 
 # EX 5C Graph coloring
-## DATE:
 ## AIM:
 To write a Java program to for given constraints.
 Problem Description:
