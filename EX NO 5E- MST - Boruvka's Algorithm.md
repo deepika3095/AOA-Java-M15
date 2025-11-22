@@ -1,7 +1,6 @@
 
 
 # EX 5E Minimum Spanning Tree -Boruvka's Algorithm
-## DATE:
 ## AIM:
 To write a Java program to for given constraints.
 Boruvka's Algorithm - Minimum Spanning Tree
